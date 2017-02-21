@@ -1,0 +1,46 @@
+*{
+  font-size: small;
+  font-style: sans-serif;
+}
+/* background-color: #f4f2e9; */
+header{
+  background-image: url("https://s.gr-assets.com/assets/home/masthead_background.jpg");
+  background-position: bottom;
+}
+body{
+}
+.contenedor-principal{
+}
+.seccion1{
+
+}
+.seccion2{
+
+}
+li{
+  display: inline-block;
+}
+.ol li{
+  display: list-item;;
+}
+.books-image{
+
+}
+
+.favebook-logo{
+  width: 300px;
+  height: 80px;
+  position: absolute;
+  top: 30px;
+  left: 250px;
+}
+.goodreads-logo{
+  position: absolute;
+  left: 200px;
+}
+.email{
+  color: white;
+}
+.sign_in{
+
+}
